@@ -7,8 +7,8 @@ Enter our Databricks clean room solution: a secure environment where Company A a
 
 Key Workflow:
 
-Secure Collaboration: OpenAI drafts a Python notebook outlining their data ingestion and LLM fine-tuning process.
-Review and Approval: Ensuring privacy, Company A reviews and approves the notebook, maintaining control over data use.
-Privacy-First Output: The fine-tuned model, crafted in the clean room, is exclusively accessible to Company A, preventing OpenAI from accessing the refined model.
-Lakehouse Application Integration: Company A utilizes the model within a lakehouse app, akin to traditional apps accessing databases, enabling seamless data access for user queries.
+- **Secure Collaboration**: OpenAI drafts a Python notebook outlining their data ingestion and LLM fine-tuning process.
+- **Review and Approval**: Ensuring privacy, Company A reviews and approves the notebook, maintaining control over data use.
+- **Privacy-First Output**: The fine-tuned model, crafted in the clean room, is exclusively accessible to Company A, preventing OpenAI from accessing the refined model.
+- **Lakehouse Application Integration**: Company A utilizes the model within a lakehouse app, akin to traditional apps accessing databases, enabling seamless data access for user queries.
 This application exemplifies how cutting-edge AI and data privacy can coexist, enabling companies to harness the power of AI while safeguarding their sensitive data.
