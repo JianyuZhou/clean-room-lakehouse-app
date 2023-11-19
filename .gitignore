@@ -1,0 +1,5 @@
+data_cleaning/api_key.txt
+data_cleaning/data.json
+data_cleaning/data/
+.idea
+.DS_Store
